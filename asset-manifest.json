@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dashboard-app/static/css/main.67c0d681.css",
-    "main.js": "/dashboard-app/static/js/main.cd3df572.js",
-    "static/media/bg-header-desktop.svg": "/dashboard-app/static/media/bg-header-desktop.8694f4668c94cdc9d16e.svg",
-    "index.html": "/dashboard-app/index.html",
-    "static/media/bg-header-mobile.svg": "/dashboard-app/static/media/bg-header-mobile.9cb13612af1317a665a2.svg",
-    "static/media/icon-remove.svg": "/dashboard-app/static/media/icon-remove.70c075ce001e5ccae7c68a570c4b7bc0.svg",
-    "main.67c0d681.css.map": "/dashboard-app/static/css/main.67c0d681.css.map",
-    "main.cd3df572.js.map": "/dashboard-app/static/js/main.cd3df572.js.map"
+    "main.css": "/dashboard-app-starter/static/css/main.1f2018d3.css",
+    "main.js": "/dashboard-app-starter/static/js/main.7de0aa12.js",
+    "static/media/bg-header-desktop.svg": "/dashboard-app-starter/static/media/bg-header-desktop.8694f4668c94cdc9d16e.svg",
+    "index.html": "/dashboard-app-starter/index.html",
+    "static/media/bg-header-mobile.svg": "/dashboard-app-starter/static/media/bg-header-mobile.9cb13612af1317a665a2.svg",
+    "static/media/icon-remove.svg": "/dashboard-app-starter/static/media/icon-remove.70c075ce001e5ccae7c68a570c4b7bc0.svg",
+    "main.1f2018d3.css.map": "/dashboard-app-starter/static/css/main.1f2018d3.css.map",
+    "main.7de0aa12.js.map": "/dashboard-app-starter/static/js/main.7de0aa12.js.map"
   },
   "entrypoints": [
-    "static/css/main.67c0d681.css",
-    "static/js/main.cd3df572.js"
+    "static/css/main.1f2018d3.css",
+    "static/js/main.7de0aa12.js"
   ]
 }
