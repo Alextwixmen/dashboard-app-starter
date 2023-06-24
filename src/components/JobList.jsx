@@ -13,7 +13,7 @@ const JobList = () => {
   );
 
   const handleFilter = (filter) => dispatch(addFilter(filter));
-
+  //
   return (
     <div className='job-list'>
       {positions.map((item) => (
